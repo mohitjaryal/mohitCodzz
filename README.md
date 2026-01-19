@@ -61,7 +61,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Most%20Active%20Hours-9PM--3AM-0D1117?style=for-the-badge&logo=github&logoColor=00FFB9&labelColor=0D1117&color=0D1117" alt="Active Hours Badge"/>
+  <img src="https://img.shields.io/badge/Most%20Active%20Hours-9PM--5AM-0D1117?style=for-the-badge&logo=github&logoColor=00FFB9&labelColor=0D1117&color=0D1117" alt="Active Hours Badge"/>
 </p>
 
 
