@@ -57,7 +57,7 @@
 ## 🕒 Activity Insights  
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=00FFB9&center=true&vCenter=true&width=700&lines=🌙+In+quiet+moments,+code+becomes+vision;+Most+Active+at+9PM–3AM+⚡" alt="Activity Typing Animation"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=00FFB9&center=true&vCenter=true&width=700&lines=🌙+In+quiet+moments,+code+becomes+vision;+Most+Active+at+9PM–5AM+⚡" alt="Activity Typing Animation"/>
 </p>
 
 <p align="center">
