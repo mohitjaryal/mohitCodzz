@@ -15,7 +15,7 @@
 ---
 
 ### 💡 About Me  
-> 💻 For me, code isn’t about syntax; it’s about shaping systems that **make sense, move, and matter.**  
+> 💻 For me, code isn’t about syntax it’s about shaping systems that **make sense, move, and matter.**  
 > ⚙️ I believe every problem hides an opportunity to design something better — **something that should already exist.**   
 > 🚀 **For me, coding isn’t just a skill — it’s a way to build the future, to question what exists, and to create what doesn’t.**
 
