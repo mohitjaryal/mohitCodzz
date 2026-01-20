@@ -71,7 +71,7 @@
 
 ---
 
-<h3 align="center">✨ The journey never ends  just new ideas waiting to be built.</h3>
+<h3 align="center">✨ The journey never ends - just new problems are waiting to be solved.</h3>
 
 ---
 
