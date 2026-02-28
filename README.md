@@ -1,4 +1,4 @@
-<!-- Header --
+<!-- Header -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:00FFB9&height=120&section=header&text=Mohit%20Jaryal&fontColor=00FFB9&fontSize=36&fontAlignY=65&animation=fadeIn&desc=Building%20systems%20that%20make%20sense%2C%20move%2C%20and%20matter.&descSize=13&descAlignY=85&descColor=888888"/>
 </p>
