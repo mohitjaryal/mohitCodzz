@@ -83,7 +83,7 @@ const mohit = {
 
 <p align="center">
   <a href="https://mohitjaryal.online">
-    <img src="https://img.shields.io/badge/🌐_mohitjaryal.online-0D1117?style=for-the-badge&color=0D1117&labelColor=0D1117&logoColor=00FFB9"/>
+    <img src="https://img.shields.io/badge/🌐_mohitjaryal.online-0D1117?style=for-the-badge&color=0D1117&labelColor=161b22&logoColor=ffffff"/>
   </a>
 </p>
 
