@@ -60,10 +60,10 @@ const mohit = {
 
 ## ◈ GitHub Stats
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mohitjaryal&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00FFB9&icon_color=00FFB9&text_color=888888&ring_color=00FFB9" height="160"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohitjaryal&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00FFB9&text_color=888888" height="160"/>
-</p>
+</p> -->
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=mohitjaryal&theme=github-dark-blue&hide_border=true&background=0D1117&ring=00FFB9&fire=00FFB9&currStreakLabel=00FFB9&sideLabels=888888&dates=555555" height="160"/>
