@@ -28,7 +28,6 @@ const mohit = {
 **Languages**
 
 ![Python](https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=00FFB9)
-![Java](https://img.shields.io/badge/Java-0D1117?style=flat-square&logo=openjdk&logoColor=00FFB9)
 ![C++](https://img.shields.io/badge/C++-0D1117?style=flat-square&logo=cplusplus&logoColor=00FFB9)
 ![C](https://img.shields.io/badge/C-0D1117?style=flat-square&logo=c&logoColor=00FFB9)
 ![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=flat-square&logo=javascript&logoColor=00FFB9)
