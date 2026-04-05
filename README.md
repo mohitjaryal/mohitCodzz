@@ -53,6 +53,7 @@ const mohit = {
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-0D1117?style=flat-square&logo=intellijidea&logoColor=00FFB9)
 ![PyCharm](https://img.shields.io/badge/PyCharm-0D1117?style=flat-square&logo=pycharm&logoColor=00FFB9)
 ![Docker](https://img.shields.io/badge/Docker-0D1117?style=flat-square&logo=docker&logoColor=00FFB9)
+![Streamlit](https://img.shields.io/badge/Streamlit-0D1117?style=flat-square&logo=streamlit&logoColor=00FFB9)
 ![Vercel](https://img.shields.io/badge/Vercel-0D1117?style=flat-square&logo=vercel&logoColor=00FFB9)
 ![Netlify](https://img.shields.io/badge/Netlify-0D1117?style=flat-square&logo=netlify&logoColor=00FFB9)
 ![Figma](https://img.shields.io/badge/Figma-0D1117?style=flat-square&logo=figma&logoColor=00FFB9)
