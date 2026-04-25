@@ -26,40 +26,48 @@ mohit = {
 
 ---
 
-## tech stack
+### `$ stack.txt`
 
 **languages**
 
-![Python](https://img.shields.io/badge/python-0d1117?style=flat-square&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/c++-0d1117?style=flat-square&logo=cplusplus&logoColor=white)
-![C](https://img.shields.io/badge/c-0d1117?style=flat-square&logo=c&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-0d1117?style=flat-square&logo=javascript&logoColor=white)
-![HTML](https://img.shields.io/badge/html5-0d1117?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/css3-0d1117?style=flat-square&logo=css3&logoColor=white)
+![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-0d1117?style=flat-square&logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/C-0d1117?style=flat-square&logo=c&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&logo=javascript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-0d1117?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-0d1117?style=flat-square&logo=css3&logoColor=white)
 
-**frameworks & libraries**
+**ml / data science**
 
-![React](https://img.shields.io/badge/react-0d1117?style=flat-square&logo=react&logoColor=white)
-![Node.js](https://img.shields.io/badge/node.js-0d1117?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/express-0d1117?style=flat-square&logo=express&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwind-0d1117?style=flat-square&logo=tailwindcss&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-0d1117?style=flat-square&logo=firebase&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-0d1117?style=flat-square&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-0d1117?style=flat-square&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/matplotlib-0d1117?style=flat-square&logo=python&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-0d1117?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-0d1117?style=flat-square&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-0d1117?style=flat-square&logo=python&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-0d1117?style=flat-square&logo=scikitlearn&logoColor=white)
 
-**tools & platforms**
+**web**
 
-![Git](https://img.shields.io/badge/git-0d1117?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-0d1117?style=flat-square&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-0d1117?style=flat-square&logo=docker&logoColor=white)
-![VSCode](https://img.shields.io/badge/vscode-0d1117?style=flat-square&logo=visualstudiocode&logoColor=white)
-![PyCharm](https://img.shields.io/badge/pycharm-0d1117?style=flat-square&logo=pycharm&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/intellij-0d1117?style=flat-square&logo=intellijidea&logoColor=white)
-![Streamlit](https://img.shields.io/badge/streamlit-0d1117?style=flat-square&logo=streamlit&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-0d1117?style=flat-square&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/netlify-0d1117?style=flat-square&logo=netlify&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-0d1117?style=flat-square&logo=figma&logoColor=white)
+![React](https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-0d1117?style=flat-square&logo=express&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-0d1117?style=flat-square&logo=tailwindcss&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-0d1117?style=flat-square&logo=firebase&logoColor=white)
+
+**tools & environment**
+
+![Git](https://img.shields.io/badge/Git-0d1117?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=flat-square&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-0d1117?style=flat-square&logo=docker&logoColor=white)
+![VSCode](https://img.shields.io/badge/VSCode-0d1117?style=flat-square&logo=visualstudiocode&logoColor=white)
+![PyCharm](https://img.shields.io/badge/PyCharm-0d1117?style=flat-square&logo=pycharm&logoColor=white)
+![IntelliJ](https://img.shields.io/badge/IntelliJ-0d1117?style=flat-square&logo=intellijidea&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-0d1117?style=flat-square&logo=jupyter&logoColor=white)
+![JupyterLab](https://img.shields.io/badge/JupyterLab-0d1117?style=flat-square&logo=jupyter&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Colab-0d1117?style=flat-square&logo=googlecolab&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-0d1117?style=flat-square&logo=streamlit&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-0d1117?style=flat-square&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-0d1117?style=flat-square&logo=netlify&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-0d1117?style=flat-square&logo=figma&logoColor=white)
+
 
 ---
 
