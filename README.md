@@ -18,7 +18,7 @@ currently focused on building intelligent systems, exploring autonomous machines
 mohit = {
     "role"    : ["student", "founder", "builder"],
     "focus"   : ["artificial intelligence", "machine learning", "robotics"],
-    "stack"   : ["python", "c++", "javascript", "react", "node.js"],
+    "stack"   : ["python", "NumPy","pandas", "Matplotlib", "Seaborn", "c++", "javascript", "react"],
     "hours"   : "21:00 → 05:00 ⚡",
     "mantra"  : "every problem hides a better system waiting to be designed.",
 }
