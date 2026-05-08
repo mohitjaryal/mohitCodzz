@@ -85,20 +85,6 @@ mohit = {
 
 <div align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=mohitjaryal&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=ffffff&icon_color=ffffff&text_color=888888&hide_title=false&count_private=true&include_all_commits=true"
-    height="150"
-    alt="GitHub Stats"
-  />
-  &nbsp;
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohitjaryal&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=888888&langs_count=8"
-    height="150"
-    alt="Top Languages"
-  />
-</div>
-
-<div align="center">
-  <img
     src="https://github-readme-streak-stats.herokuapp.com?user=mohitjaryal&theme=github-dark-blue&hide_border=true&background=0d1117&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=666666&dates=444444&timezone=Asia%2FKolkata"
     height="140"
     alt="GitHub Streak"
