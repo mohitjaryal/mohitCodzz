@@ -42,7 +42,7 @@ mohit = {
 ![NumPy](https://img.shields.io/badge/NumPy-0d1117?style=flat-square&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-0d1117?style=flat-square&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-0d1117?style=flat-square&logo=python&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-0d1117?style=flat-square&logo=scikitlearn&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-0d1117?style=flat-square&logo=python&logoColor=white)
 
 **web**
 
@@ -59,7 +59,7 @@ mohit = {
 ![Docker](https://img.shields.io/badge/Docker-0d1117?style=flat-square&logo=docker&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VSCode-0d1117?style=flat-square&logo=visualstudiocode&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/PyCharm-0d1117?style=flat-square&logo=pycharm&logoColor=white)
-![IntelliJ](https://img.shields.io/badge/IntelliJ-0d1117?style=flat-square&logo=intellijidea&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-0d1117?style=flat-square&logo=opencv&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-0d1117?style=flat-square&logo=jupyter&logoColor=white)
 ![JupyterLab](https://img.shields.io/badge/JupyterLab-0d1117?style=flat-square&logo=jupyter&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/Colab-0d1117?style=flat-square&logo=googlecolab&logoColor=white)
