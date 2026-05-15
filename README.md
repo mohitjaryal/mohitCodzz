@@ -73,8 +73,7 @@ mohit = {
 
 ## currently
 
-- 🔭 building at the edge of ai + robotics
-- 🧠 going deep into ml — from theory to real systems
+- 🔭 building at the edge of computer vision + robotics
 - 🛠 shipping side projects that solve real problems
 - 📖 reading research papers i barely understand, then understanding them
 - 🌐 building toward [mohitjaryal.online](https://mohitjaryal.online)
