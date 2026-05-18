@@ -2,7 +2,7 @@
 
 > building systems that think, move, and matter.
 
-student · founder · builder · ai/ml explorer · india  
+student · builder · ai/cv/robotics explorer · india  
 active at night — shipping by morning ⚡  
 → [mohitjaryal.online](https://mohitjaryal.online)
 
@@ -18,7 +18,7 @@ currently focused on building intelligent systems, exploring autonomous machines
 mohit = {
     "role"    : ["student", "founder", "builder"],
     "focus"   : ["artificial intelligence", "computer vision", "robotics"],
-    "stack"   : ["python", "NumPy","pandas", "Matplotlib", "Seaborn", "c++", "javascript", "react"],
+    "stack"   : ["python", "opencv", "NumPy","pandas", "matplotlib", "seaborn", "c++", "react"],
     "hours"   : "21:00 → 05:00 ⚡",
     "mantra"  : "every problem hides a better system waiting to be designed.",
 }
