@@ -84,7 +84,7 @@ mohit = {
 
 <div align="center">
   <img
-    src="https://github-readme-streak-stats.herokuapp.com?user=mohitjaryal&theme=github-dark-blue&hide_border=true&background=0d1117&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=666666&dates=444444&timezone=Asia%2FKolkata"
+    src="https://streak-stats.demolab.com?user=mohitjaryal&theme=github-dark-blue&hide_border=true&background=0d1117&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=666666&dates=444444&timezone=Asia%2FKolkata"
     height="140"
     alt="GitHub Streak"
   />
