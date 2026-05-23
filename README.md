@@ -2,23 +2,21 @@
 
 > building systems that think, move, and matter.
 
-student · builder · ai/cv/robotics explorer · india  
-active at night — shipping by morning ⚡  
+student · builder · ai / computer vision /robotics explorer   
 → [mohitjaryal.online](https://mohitjaryal.online)
 
 ---
 
 ## about
 
-Just a CS student who got tired of waiting to be "ready" so started building instead. Obsessed with the intersection of artificial intelligence, machine learning, and robotics. i don't just learn technologies — i build with them. most of my best work happens between 9pm and 5am, somewhere between a bug i can't explain and a solution i didn't expect.
+Just a CS student who got tired of waiting to be "ready" so started building instead. Most of my time goes into AI, Computer Vision, and Robotics — learning ideas, building projects, and creating things along the way. I enjoy building useful and ambitious stuff, exploring intelligent systems, and collaborating with people who like creating cool things. Open to collaboration and always learning.
 
-currently focused on building intelligent systems, exploring autonomous machines, and shipping things that shouldn't exist yet.
 
 ```python
 mohit = {
     "role"    : ["student", "founder", "builder"],
     "focus"   : ["artificial intelligence", "computer vision", "robotics"],
-    "stack"   : ["python", "opencv", "NumPy","pandas", "matplotlib", "seaborn", "c++", "react"],
+    "stack"   : ["python", "opencv", "c++", "react"],
     "hours"   : "21:00 → 05:00 ⚡",
     "mantra"  : "every problem hides a better system waiting to be designed.",
 }
@@ -74,8 +72,8 @@ mohit = {
 ## currently
 
 - 🔭 building at the edge of computer vision + robotics
-- 🛠 shipping side projects that solve real problems
-- 📖 reading research papers i barely understand, then understanding them
+- 🛠 shipping side projects
+- 📖 reading research papers i barely understand, then understanding them later
 - 🌐 building toward [mohitjaryal.online](https://mohitjaryal.online)
 
 ---
@@ -106,4 +104,4 @@ mohit = {
 
 ---
 
-<sub>india · building quietly · shipping loudly</sub>
+<sub>keep working</sub>
