@@ -2,7 +2,7 @@
 
 > building systems that think, move, and matter.
 
-student · builder · ai / computer vision /robotics explorer   
+student · builder · ai / computer vision / robotics explorer   
 → [mohitjaryal.online](https://mohitjaryal.online)
 
 ---
