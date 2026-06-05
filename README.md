@@ -39,12 +39,11 @@ mohit = {
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-0d1117?style=flat-square&logo=python&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-0d1117?style=flat-square&logo=python&logoColor=white)
 
-**web**
+**web / backend**
 
 ![React](https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-0d1117?style=flat-square&logo=express&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind-0d1117?style=flat-square&logo=tailwindcss&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-0d1117?style=flat-square&logo=fastapi&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-0d1117?style=flat-square&logo=firebase&logoColor=white)
 
 **tools & environment**
