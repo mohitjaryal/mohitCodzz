@@ -14,10 +14,10 @@ Just a CS student who got tired of waiting to be "ready" so started building ins
 
 ```python
 mohit = {
-    "role"    : ["student", "founder", "builder"],
+    "role"    : ["student", "builder"],
     "focus"   : ["artificial intelligence", "computer vision", "robotics"],
     "stack"   : ["python", "opencv", "c++", "react"],
-    "hours"   : "21:00 → 05:00 ⚡",
+    "hours"   : "awake enough to keep building",
     "mantra"  : "every problem hides a better system waiting to be designed.",
 }
 ```
@@ -31,9 +31,6 @@ mohit = {
 ![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-0d1117?style=flat-square&logo=cplusplus&logoColor=white)
 ![C](https://img.shields.io/badge/C-0d1117?style=flat-square&logo=c&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&logo=javascript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-0d1117?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-0d1117?style=flat-square&logo=css3&logoColor=white)
 
 **ml / data science**
 
@@ -59,11 +56,9 @@ mohit = {
 ![PyCharm](https://img.shields.io/badge/PyCharm-0d1117?style=flat-square&logo=pycharm&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-0d1117?style=flat-square&logo=opencv&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-0d1117?style=flat-square&logo=jupyter&logoColor=white)
-![JupyterLab](https://img.shields.io/badge/JupyterLab-0d1117?style=flat-square&logo=jupyter&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/Colab-0d1117?style=flat-square&logo=googlecolab&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-0d1117?style=flat-square&logo=streamlit&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-0d1117?style=flat-square&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-0d1117?style=flat-square&logo=netlify&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-0d1117?style=flat-square&logo=figma&logoColor=white)
 
 
@@ -78,15 +73,32 @@ mohit = {
 
 ---
 
-## 📊 Stats
+## featured projects
 
-<div align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=mohitjaryal&theme=github-dark-blue&hide_border=true&background=0d1117&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=666666&dates=444444&timezone=Asia%2FKolkata"
-    height="140"
-    alt="GitHub Streak"
-  />
-</div>
+### 👁️ face / eye / smile detection
+real-time face, eye, and smile detection system built using opencv haar cascades.
+
+built with: `python` `opencv`
+
+→ https://github.com/mohitjaryal/opencv-basic-projects/blob/main/face_eye_smile.py
+
+---
+
+### ✋ hand gesture mouse control
+control the system cursor using hand tracking and gestures with mediapipe + opencv.
+
+features:
+- cursor movement
+- gesture tracking
+- real-time interaction
+
+built with: `python` `opencv` `mediapipe` `pyautogui`
+
+→ https://github.com/mohitjaryal/opencv-basic-projects/blob/main/mouse_control.py
+
+---
+
+## 📈 activity
 
 <div align="center">
   <img
@@ -95,6 +107,7 @@ mohit = {
     alt="Activity Graph"
   />
 </div>
+
 ---
 
 ## connect
@@ -105,4 +118,4 @@ mohit = {
 
 ---
 
-<sub>keep working</sub>
+<sub>Powered by curiosity and bad sleep</sub>
