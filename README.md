@@ -9,7 +9,7 @@ student · builder · ai / computer vision / robotics explorer
 
 ## about
 
-Just a CS student who got tired of waiting to be "ready" so started building instead. Most of my time goes into AI, Computer Vision, and Robotics — learning ideas, building projects, and creating things along the way. I enjoy building useful and ambitious stuff, exploring intelligent systems, and collaborating with people who like creating cool things. Open to collaboration and always learning.
+just a CS student who got tired of waiting to be "ready" so started building instead. Most of my time goes into AI, Computer Vision, and Robotics — learning ideas, building projects, and creating things along the way. I enjoy building useful and ambitious stuff, exploring intelligent systems, and collaborating with people who like creating cool things. Open to collaboration and always learning.
 
 
 ```python
