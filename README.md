@@ -14,11 +14,11 @@ just a CS student who got tired of waiting to be "ready" so started building ins
 
 ```python
 mohit = {
-    "role"    : ["student", "builder"],
-    "focus"   : ["artificial intelligence", "computer vision", "robotics"],
-    "stack"   : ["python", "opencv", "c++", "react"],
-    "hours"   : "awake enough to keep building",
-    "mantra"  : "every problem hides a better system waiting to be designed.",
+    "role"   : ["student", "builder"],
+    "focus"  : ["full-stack", "artificial intelligence"],
+    "stack"  : ["python", "react.js", "fastapi", "postgresql", "tailwindcss", "opencv", "c++", "c"],
+    "hours"  : "awake enough to keep building",
+    "mantra" : "every problem hides a better system waiting to be designed.",
 }
 ```
 
