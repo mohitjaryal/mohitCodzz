@@ -1,7 +1,7 @@
 # mohit jaryal
 
 > building systems that think, move, and matter.
-
+> 
 student · builder · full stack / ai / explorer  
 → [mohitjaryal.online](https://mohitjaryal.online)
 
