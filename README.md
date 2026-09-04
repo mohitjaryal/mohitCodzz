@@ -72,31 +72,6 @@ mohit = {
 
 ---
 
-## featured projects
-
-### 👁️ face / eye / smile detection
-real-time face, eye, and smile detection system built using opencv haar cascades.
-
-built with: `python` `opencv`
-
-→ https://github.com/mohitjaryal/opencv-basic-projects/blob/main/face_eye_smile.py
-
----
-
-### ✋ hand gesture mouse control
-control the system cursor using hand tracking and gestures with mediapipe + opencv.
-
-features:
-- cursor movement
-- gesture tracking
-- real-time interaction
-
-built with: `python` `opencv` `mediapipe` `pyautogui`
-
-→ https://github.com/mohitjaryal/opencv-basic-projects/blob/main/mouse_control.py
-
----
-
 ## 📈 activity
 
 <div align="center">
