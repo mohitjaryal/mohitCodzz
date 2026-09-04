@@ -89,6 +89,8 @@ mohit = {
 - 🌐 website — [mohitjaryal.online](https://mohitjaryal.online)
 - 💻 github — [github.com/mohitjaryal](https://github.com/mohitjaryal)
 - 🐦 x — [x.com/mohitjaryal04](https://x.com/mohitjaryal04)
+- 💼 linkedin — [linkedin.com/in/mohitjaryal](https://www.linkedin.com/in/mohitjaryal/)
+
 
 ---
 
